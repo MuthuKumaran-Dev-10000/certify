@@ -79,9 +79,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 Muthukumaran S
 ✨ Follow me on GitHub: @yourusername
 
-yaml
-Copy
-Edit
+
 
 ---
 
